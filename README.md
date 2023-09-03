@@ -31,7 +31,8 @@ hobbies:
 currently_working_on 🔭: Grocer App
 future_projects:
  [
-    "Family Tracker" 
+    "Family Tracker",
+    "What2Wear"
  ]
 fun_fact: "I was born Ndola 🇿🇲"
 ```
