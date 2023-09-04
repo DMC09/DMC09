@@ -1,7 +1,5 @@
 ![Header](./header-image.png)
-<a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+
 
 
 <!--
@@ -36,6 +34,18 @@ future_projects:
  ]
 fun_fact: "I was born Ndola 🇿🇲"
 ```
+
+## Reach out to me 
+
+<a href="https://www.linkedin.com/in/dharminchauhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:Dharminlive1213@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
+
+
 
 
 
