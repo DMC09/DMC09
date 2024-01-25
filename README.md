@@ -15,7 +15,6 @@
 ```yaml
 name: Dharmin Chauhan 🤓
 located_in: Houston, Tx 📍
-current_job: Junior Software Developer 💼
 education:
   [
     "B.S. Technology Management Texas A&M University" 🎓
@@ -26,10 +25,9 @@ hobbies:
     "Golf ⛳️" ,
     "Fitness 💪",
   ]
-currently_working_on 🔭: Grocer App
+currently_working_on 🔭: Family Tracker App
 future_projects:
  [
-    "Family Tracker",
     "What2Wear"
  ]
 fun_fact: "I was born Ndola 🇿🇲"
