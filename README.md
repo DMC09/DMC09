@@ -30,7 +30,7 @@ future_projects:
  [
     "What2Wear"
  ]
-fun_fact: "I was born Ndola 🇿🇲"
+fun_fact: "I was born Ndola, Zambia 🇿🇲"
 ```
 
 ## Reach out to me 
