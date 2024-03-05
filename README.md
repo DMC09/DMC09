@@ -25,11 +25,7 @@ hobbies:
     "Golf ⛳️" ,
     "Fitness 💪",
   ]
-currently_working_on 🔭: Family Tracker App
-future_projects:
- [
-    "What2Wear"
- ]
+currently_learning 💻: C# and .NET
 fun_fact: "I was born Ndola, Zambia 🇿🇲"
 ```
 
@@ -38,7 +34,7 @@ fun_fact: "I was born Ndola, Zambia 🇿🇲"
 <a href="https://www.linkedin.com/in/dharminchauhan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:Dharminlive1213@gmail.com" target="_blank">
+<a href="mailto:Dharminc.dev@gmail.com " target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
