@@ -25,7 +25,6 @@ hobbies:
     "Golf ⛳️" ,
     "Fitness 💪",
   ]
-currently_learning 💻: C# and .NET
 fun_fact: "I was born Ndola, Zambia 🇿🇲"
 ```
 
